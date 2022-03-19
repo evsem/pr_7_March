@@ -23,3 +23,12 @@ body {
   margin: 0 auto;
   max-width: 680px;
 }
+
+.App_titleWarning {
+  margin: 18px 0px 10px 0px;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}

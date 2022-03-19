@@ -1,0 +1,18 @@
+.loaderBlack {
+  margin: 10px 0px;
+  width: 120px;
+  height: 120px;
+  background-color: transparent;
+  border: 2px dotted black;
+  border-radius: 50%;
+  animation: rotate 0.8s infinite linear;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

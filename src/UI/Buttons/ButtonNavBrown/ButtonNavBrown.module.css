@@ -1,0 +1,12 @@
+.buttonNavBrown {
+  width: 36px;
+  height: 36px;
+  padding: 1px;
+  background-color: white;
+  border: 2px solid brown;
+  border-radius: 3px;
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+}

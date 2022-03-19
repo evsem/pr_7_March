@@ -1,0 +1,12 @@
+.buttonGrey {
+  padding: 3px 12px;
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 18px;
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
